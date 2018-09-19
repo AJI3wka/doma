@@ -4,7 +4,7 @@ WebFont.load({
     //     families: ['Roboto:300,700:latin,cyrillic', 'Oranienbaum:400:latin,cyrillic']
     // },
       custom: {
-        families: ['ProximaNova'],
+        families: ['Roboto'],
         urls: [ 'css/fonts.css' ]
       },
     active: function() {
